@@ -10,14 +10,16 @@ redirect_from:
 twitter-color: "#55acee"
 github-color: "#171516"
 blogger-color: "#F37100"
----
-I am a **Professor of Computer Science** at [Old Dominion University](https://www.odu.edu/).  I serve as the **Assistant Chair for Graduate Programs and Research** and the **Graduate Program Director (GPD) for the PhD Program** in the [Department of Computer Science](https://www.odu.edu/computer-science).  See our website for information on our graduate programs ([MS](https://www.odu.edu/computer-science/academics/graduate/masters), [PhD](https://www.odu.edu/computer-science/academics/graduate/phd)). If you need to contact a CS GPD, please use [csgpd@odu.edu](mailto:csgpd@odu.edu).
+--- 
+I am a **PhD student** in the College of Information Sciences and Technology (IST) at [Pennsylvania State University](https://www.psu.edu/), currently working in the Penn State Cyber Security Lab under Professor Peng Liu, Raymond G. Tronzo, M.D., Professor of Cybersecurity. Before this, I obtained my bachelor's degree from the Department of Computer Science and Engineering (CSE) at Bangladesh University of Engineering and Technology (BUET) in 2023.   
 
-For an overview of my research over the past few years, see [On the importance of web archiving](https://items.ssrc.org/parameters/on-the-importance-of-web-archiving/), an article I wrote for [*SSRC Parameters*](https://items.ssrc.org/category/parameters/) in 2018. I recently gave an [interview covering my background, our research group, and challenges facing web archive collections](https://circulatingnow.nlm.nih.gov/2022/11/10/whats-in-a-web-archive-collection-summarization-and-discovery-of-archived-webpages/) for the National Library of Medicine's [*Circulating Now* blog](https://circulatingnow.nlm.nih.gov/). I'm currently featured on the [ODU Faculty Women in STEM page](https://www.odu.edu/facultydevelopment/women-in-stem#tab9=3&done1612907281342), where you can read a bit more about my background and experiences as a woman in computer science. For more information on my education and work experience, see my [bio](#bio).
+<!-- I serve as the **Assistant Chair for Graduate Programs and Research** and the **Graduate Program Director (GPD) for the PhD Program** in the [Department of Computer Science](https://www.odu.edu/computer-science).  See our website for information on our graduate programs ([MS](https://www.odu.edu/computer-science/academics/graduate/masters), [PhD](https://www.odu.edu/computer-science/academics/graduate/phd)). If you need to contact a CS GPD, please use [csgpd@odu.edu](mailto:csgpd@odu.edu).
 
-**Research Interests:** web archiving, social media, web science, data visualization (see student data vis projects in my [gallery](https://www.cs.odu.edu/~mweigle/research/gallery.html))
+For an overview of my research over the past few years, see [On the importance of web archiving](https://items.ssrc.org/parameters/on-the-importance-of-web-archiving/), an article I wrote for [*SSRC Parameters*](https://items.ssrc.org/category/parameters/) in 2018. I recently gave an [interview covering my background, our research group, and challenges facing web archive collections](https://circulatingnow.nlm.nih.gov/2022/11/10/whats-in-a-web-archive-collection-summarization-and-discovery-of-archived-webpages/) for the National Library of Medicine's [*Circulating Now* blog](https://circulatingnow.nlm.nih.gov/). I'm currently featured on the [ODU Faculty Women in STEM page](https://www.odu.edu/facultydevelopment/women-in-stem#tab9=3&done1612907281342), where you can read a bit more about my background and experiences as a woman in computer science. For more information on my education and work experience, see my [bio](#bio). -->
 
-## Teaching
+**Research Interests:** IoT Network Traffic Analysis, Adversarial Machine Learning, Cyber-Physical System Security
+
+<!-- ## Teaching
 
 **Fall 2025**
 
@@ -86,4 +88,4 @@ Dr. Michele C. Weigle is a Professor of Computer Science at Old Dominion Univers
 * May 1998, M.S., Computer Science, University of North Carolina
 * May 1996, B.S., [Computer Science](http://www.ulm.edu/cba/computerscience/index.html) ([Honors Program](http://www.ulm.edu/honors)), Northeast Louisiana University (now [University of Louisiana at Monroe](http://www.ulm.edu))
   
-<iframe width="300" src="https://www.youtube.com/embed/FVIg42xHlvQ" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="300" src="https://www.youtube.com/embed/FVIg42xHlvQ" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
