@@ -11,7 +11,7 @@ twitter-color: "#55acee"
 github-color: "#171516"
 blogger-color: "#F37100"
 --- 
-I am a **PhD student** in the College of Information Sciences and Technology (IST) at [Pennsylvania State University](https://www.psu.edu/), currently working in the Penn State Cyber Security Lab under Professor Peng Liu, Raymond G. Tronzo, M.D., Professor of Cybersecurity. Before this, I obtained my bachelor's degree from the Department of Computer Science and Engineering (CSE) at Bangladesh University of Engineering and Technology (BUET) in 2023.   
+I am a **PhD student** in the College of Information Sciences and Technology (IST) at [Pennsylvania State University](https://www.psu.edu/), currently working in the [Penn State Cyber Security Lab](https://www.google.com/url?q=https%3A%2F%2Fs2.ist.psu.edu%2Findex.html&sa=D) under Professor [Peng Liu](https://www.google.com/url?q=https%3A%2F%2Fs2.ist.psu.edu%2Fpliu%2F&sa=D), Raymond G. Tronzo, M.D., Professor of Cybersecurity. Before this, I obtained my bachelor's degree from the Department of Computer Science and Engineering (CSE) at Bangladesh University of Engineering and Technology ([BUET](https://cse.buet.ac.bd/)) in 2023.   
 
 <!-- I serve as the **Assistant Chair for Graduate Programs and Research** and the **Graduate Program Director (GPD) for the PhD Program** in the [Department of Computer Science](https://www.odu.edu/computer-science).  See our website for information on our graduate programs ([MS](https://www.odu.edu/computer-science/academics/graduate/masters), [PhD](https://www.odu.edu/computer-science/academics/graduate/phd)). If you need to contact a CS GPD, please use [csgpd@odu.edu](mailto:csgpd@odu.edu).
 
