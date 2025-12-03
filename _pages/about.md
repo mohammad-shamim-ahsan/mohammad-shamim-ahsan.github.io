@@ -25,6 +25,13 @@ Adversarial Machine Learning:
 
 Cyber-Physical System Security:
 
+
+
+**Recent News:** 
+
++ 09 July 2025: Elected as a Full Member of [Sigma Xi, The Scientific Research Honor Society](https://www.google.com/url?q=https%3A%2F%2Fwww.sigmaxi.org%2F&sa=D)
++ 06 May 2025: A literature review paper on IoT-NIDSs published in the Swarm and Evolutionary Computation ([SWEVO](https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fjournal%2Fswarm-and-evolutionary-computation&sa=D)) journal [Q1, IF=8.5 (2025)]
+
 <!-- ## Teaching
 
 **Fall 2025**
