@@ -1,7 +1,7 @@
 ---
 permalink: /contact/
 title: "Contact Info"
-published: false
+# published: false
 ---
 
 ## Office Location
