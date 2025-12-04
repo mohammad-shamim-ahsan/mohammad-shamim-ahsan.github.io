@@ -130,7 +130,6 @@ include:
   - _pages
   - files
 exclude:
-  - _pages/contact.md
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
