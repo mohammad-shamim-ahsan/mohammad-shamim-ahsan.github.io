@@ -10,13 +10,6 @@
  *
 */
 
-/* Custom fonts */
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap");
-
-body {
-  font-family: "Inter", sans-serif;
-}
-
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
@@ -46,3 +39,17 @@ body {
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* ========================================= */
+/* CUSTOM FONT — MUST BE LAST TO OVERRIDE CSS */
+/* ========================================= */
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap");
+
+body {
+  font-family: "Inter", sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Inter", sans-serif !important;
+}
