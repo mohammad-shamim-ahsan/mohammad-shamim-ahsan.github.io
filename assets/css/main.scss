@@ -41,15 +41,21 @@
 @import "print";
 
 /* ========================================= */
-/* CUSTOM FONT — MUST BE LAST TO OVERRIDE CSS */
+/* CUSTOM FONT OVERRIDE — MUST BE LAST       */
 /* ========================================= */
-
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap");
 
+/* Override Minimal Mistakes font variables */
+:root {
+  --mm-font-family: "Inter", sans-serif;
+  --mm-heading-font-family: "Inter", sans-serif;
+}
+
+/* For safety, override body & headings too */
 body {
-  font-family: "Inter", sans-serif !important;
+  font-family: var(--mm-font-family) !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Inter", sans-serif !important;
+  font-family: var(--mm-heading-font-family) !important;
 }
