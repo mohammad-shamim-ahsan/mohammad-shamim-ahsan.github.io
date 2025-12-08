@@ -11,6 +11,47 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
+  <!-- BibTeX Modal -->
+  <div id="bibtex-modal" style="
+    display:none; position:fixed; z-index:10000; 
+    left:0; top:0; width:100%; height:100%;
+    background:rgba(0,0,0,0.6);
+  ">
+    <div id="bibtex-modal-content" style="
+      background:#fff; margin:10% auto; padding:20px;
+      width:80%; max-width:700px; border-radius:8px;
+      box-shadow:0 4px 12px rgba(0,0,0,0.3);
+    ">
+      <span id="bibtex-close" style="
+        float:right; cursor:pointer; font-size:26px;
+      ">&times;</span>
+      <pre><code id="bibtex-modal-text"></code></pre>
+    </div>
+  </div>
+
+  <script>
+  // open modal
+  document.addEventListener("click", function(e) {
+    if (e.target.closest(".bibtex-trigger")) {
+      let id = e.target.closest(".bibtex-trigger").dataset.bibtexId;
+      let bib = document.getElementById("bibtex-content-" + id).textContent.trim();
+      document.getElementById("bibtex-modal-text").textContent = bib;
+      document.getElementById("bibtex-modal").style.display = "block";
+    }
+  });
+
+  // close modal
+  document.getElementById("bibtex-close").onclick = function() {
+    document.getElementById("bibtex-modal").style.display = "none";
+  };
+
+  // click outside modal closes it
+  window.onclick = function(event) {
+    let modal = document.getElementById("bibtex-modal");
+    if (event.target == modal) modal.style.display = "none";
+  }
+  </script>
+
   <body>
 
     {% include browser-upgrade.html %}

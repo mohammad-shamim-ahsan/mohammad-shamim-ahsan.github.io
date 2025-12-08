@@ -1,0 +1,9 @@
+<!-- Trigger -->
+<a class="bibtex-trigger" data-bibtex-id="{{ include.id }}" style="cursor:pointer;">
+  <img src="{{ include.icon | default: '/images/BibTeX_logo-16px-high.png' }}" height="20">
+</a>
+
+<!-- Hidden BibTeX content -->
+<script type="text/plain" id="bibtex-content-{{ include.id }}">
+{{ include.bibtex }}
+</script>
